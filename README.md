@@ -1,9 +1,13 @@
 Light/dark theme
 
-Install 
+## Installation
 
-npm install 
+```bash
+npm install
+```
 
-Run 
+## Start 
 
-npm run
+```bash 
+npm start
+```
